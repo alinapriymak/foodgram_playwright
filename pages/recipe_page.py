@@ -49,7 +49,8 @@ class RecipePage(BasePage):
     
     @allure.step("Нажать кнопку «Создать рецепт»")
     def click_submit_button(self):
-        self.click(self.locators.SUBMIT_BUTTON)
+        with self.page.expect_navigation():
+            self.page.locator(self.locators.SUBMIT_BUTTON).click()
         return self
     
     @allure.step("Перейти на страницу рецептов")
