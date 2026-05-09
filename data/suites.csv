@@ -1,4 +1,4 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Sat May 09 20:11:39 UTC 2026","Sat May 09 20:11:40 UTC 2026","1198","tests","test_login","TestLogin","","","Авторизация",""
-"passed","Sat May 09 20:11:54 UTC 2026","Sat May 09 20:11:56 UTC 2026","2448","tests","test_registration","TestRegistration","","","Создание аккаунта",""
-"passed","Sat May 09 20:11:46 UTC 2026","Sat May 09 20:11:53 UTC 2026","7334","tests","test_recipe","TestRecipe","","","Создание рецепта",""
+"passed","Sat May 09 20:27:16 UTC 2026","Sat May 09 20:27:17 UTC 2026","1111","tests","test_login","TestLogin","","","Авторизация",""
+"passed","Sat May 09 20:27:29 UTC 2026","Sat May 09 20:27:31 UTC 2026","2362","tests","test_registration","TestRegistration","","","Создание аккаунта",""
+"passed","Sat May 09 20:27:23 UTC 2026","Sat May 09 20:27:28 UTC 2026","5091","tests","test_recipe","TestRecipe","","","Создание рецепта",""
